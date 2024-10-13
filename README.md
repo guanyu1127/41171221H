@@ -12,4 +12,4 @@
 ### - HW1 [資料夾](https://github.com/guanyu1127/Web/tree/main/HW_1)
 
 ### - HW2[HTML & JavaScript Form Request](https://youtu.be/dHbPsaAq2aU)
-### - HW2[HTML & JavaScript Form Request]
+### - HW2[資料夾](https://github.com/guanyu1127/Web/tree/main/HW_2)
