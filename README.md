@@ -11,5 +11,5 @@
 ### - HW1 [My Website](https://guanyu1127.github.io/-guanyu1127-gibhub.io-Webpage/)
 ### - HW1 [資料夾](https://github.com/guanyu1127/Web/tree/main/HW_1)
 
-### - HW2[HTML & JavaScript Form Request](https://youtu.be/Yd0JCFjVh2s)
+### - HW2[HTML & JavaScript Form Request](https://youtu.be/Xbj5C3J6WHg)
 ### - HW2[資料夾](https://github.com/guanyu1127/Web/tree/main/HW_2)
