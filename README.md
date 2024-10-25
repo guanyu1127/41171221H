@@ -14,4 +14,4 @@
 ### - HW2[HTML & JavaScript Form Request](https://youtu.be/Xbj5C3J6WHg)
 ### - HW2[資料夾](https://github.com/guanyu1127/Web/tree/main/HW_2)
 
-### - HW3[簡報說明]
+### - HW3[簡報說明](https://github.com/guanyu1127/Web/blob/main/%EF%BC%A8%EF%BC%B73/%EF%BC%A8%EF%BC%B7%EF%BC%93.pdf)
