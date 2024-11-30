@@ -16,4 +16,4 @@
 
 ### - HW3[簡報說明](https://github.com/guanyu1127/Web/blob/main/%EF%BC%A8%EF%BC%B73/%EF%BC%A8%EF%BC%B7%EF%BC%93.pdf)
 ### - HW3[影片說明](https://youtu.be/fWrlU547gCc)
-### - HW3[實作影片]((https://youtu.be/UmvaXbLuVOY))
+### - HW3[實作影片](https://youtu.be/UmvaXbLuVOY)
