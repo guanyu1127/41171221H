@@ -41,7 +41,7 @@ function TravelAssistantApp() {
   const fetchWeather = async () => {
     if (!city) return;
     setWeather({ ...weather, loading: true });
-    const apiKey = "a55fb9452417434bd14dd5e14ef733b7"; // 替換為你的 OpenWeatherMap API Key
+    const apiKey = "a55fb9452417434b"; // 替換為你的 OpenWeatherMap API Key
     try {
       const response = await axios.get(
         `https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${apiKey}`
@@ -54,7 +54,7 @@ function TravelAssistantApp() {
 
   // 貨幣匯率轉換
   const convertCurrency = async () => {
-    const apiKey = "48b854def2c80f51c1e35b35"; // 替換為你的 ExchangeRate-API Key
+    const apiKey = "48b854def2c80"; // 替換為你的 ExchangeRate-API Key
     try {
       const response = await axios.get(
         `https://v6.exchangerate-api.com/v6/${apiKey}/pair/${fromCurrency}/${toCurrency}/${amount}`
